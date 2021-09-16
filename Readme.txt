@@ -1,5 +1,11 @@
-Dans le cadre d'un tutoriel Openclassroom j'ai créée un dossier 'Base site web' pour mettre en pratique les notions abordées.
+Ce dossier constitu le premier TP réalisé dans le cadre du tutoriel Openclassroom.
 
-J'y ai testé des éléments comme les variables globales $_GET[] et $_POST[] qui permettent de récupérer des données dans des variables pour les traiter.
+Le but étant de vérifier la validité d'un mot de passe de manière sécurisée.
 
-J'ai également mis en pratique la fonction isset() et la fonction htmlspecialchars() qui permettent une meilleure sécurité des données.
+Le fichier index.php permet à l'utilisateur de rentrer un mot de passe via un formulaire.
+
+Quand le formulaire est validé le fichier formulaire.php traite l'information.
+
+Si le mot de passe est correct le fichier secret.php affiche une phrase de félicitation.
+
+Sinon le fichier formulaire.php affiche que le mot de passe est incorrect et il faut recommencer.
