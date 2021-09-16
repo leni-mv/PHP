@@ -1,3 +1,3 @@
 <?php
-echo "Bravo !! Tu as trouvé le bon mot de passe !! :D";
+echo "Bravo !! Tu as trouvé le bon mot de passe !";
 ?>
