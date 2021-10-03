@@ -13,3 +13,7 @@ Si vous souhaiter voir ma progression de manière chronologique je vous conseil 
 
 Au moment où je créer ce document je suis au deuxième TP du tutoriel : Créer un mini chat.
 Il se peut que j'ai avancé dans le tutoriel (ou que je l'ai fini) au moment où vous lisez ce document.
+
+Derniers ajouts :
+- TP_Mini_Chat mis à jour.
+- BDD_MySQl ajout du fichier Fonctions_SQL.php
