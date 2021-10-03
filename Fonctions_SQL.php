@@ -59,5 +59,5 @@
         echo "... " . $donnee['prix_max'] . "euros ! ";
     }
 
-$reponse->closeCursor();
+    $reponse->closeCursor();
 ?>
